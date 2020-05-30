@@ -8,7 +8,7 @@ from NER import entity_detection
 from nltk.corpus import stopwords
 from nltk import edit_distance
 import numpy as np
-from Sentiment.Revisions import kmedoids
+from Disambiguation_Methodology import kmedoids
 from collections import defaultdict
 
 
